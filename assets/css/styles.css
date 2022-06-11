@@ -81,9 +81,7 @@
     align-items: center;
     justify-content: space-around;
     padding: 0 2.5rem;
-    background-image: linear-gradient(to right bottom, #ffffff, #ffffff,
-            #f6fafb, #e8f2f3, #ddecef);
-    /* background-color: #ffffff; */
+    background-color: #ffffff;
 }
 
 .container__content {
