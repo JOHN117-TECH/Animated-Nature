@@ -173,6 +173,12 @@
     }
 
     /*  ##############################  */
+
+    .container {
+        margin-top: 1rem;
+    }
+
+    /*  ##############################  */
     .header--btn {
         display: inline;
         position: absolute;
